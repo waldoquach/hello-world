@@ -1,2 +1,2 @@
 # hello-world
-getting my feet wet with githup
+getting my feet wet with github
